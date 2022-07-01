@@ -1,0 +1,15 @@
+.intro__item {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 700;
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: left;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .intro__item {
+    max-width: 288px;
+  }
+}
