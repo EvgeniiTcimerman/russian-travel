@@ -1,5 +1,4 @@
 .lead {
-  height: 1005px;
   width: 984px;
   padding-top: 56px;
   display: flex;
@@ -11,7 +10,6 @@
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .lead {
     width: 928px;
-    height: 962px;
     padding-top: 48px;
   }
 }
@@ -19,7 +17,6 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead {
     width: 768px;
-    height: 862px;
     padding-top: 48px;
   }
 }
@@ -27,7 +24,6 @@
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .lead {
     width: 320px;
-    height: 406px;
     padding-top: 48px;
   }
 }
